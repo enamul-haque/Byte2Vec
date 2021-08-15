@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 17 18:59:18 2018
 @author: Md. Enamul Haque
-@inistitute: University of Louisian at Lafayette
+@inistitute: University of Louisiana at Lafayette
 """
 
 import requests 
